@@ -8,19 +8,19 @@ const products = [
   {
     title: 'Smart Conveyor Systems',
     description: 'Intelligent conveyor systems with built-in sorting capabilities and real-time monitoring.',
-    image: '/lovable-uploads/ed8665af-be23-47e7-ba18-1651158e7f9b.png',
+    image: 'pexels-hyundaimotorgroup-19233057.jpg',
     color: 'bg-play-softBlue',
   },
   {
     title: 'IoT-Enabled Robotics Arms',
     description: 'Precision robotics with remote monitoring and control through our IoT platform.',
-    image: '/lovable-uploads/9e2e002f-c658-4cac-9889-c03e38c3c5cb.png',
+    image: 'pexels-pavel-danilyuk-8438863.jpg',
     color: 'bg-play-softGreen',
   },
   {
     title: 'Custom Automation Tools',
     description: 'Bespoke automation solutions designed specifically for warehouse operations.',
-    image: '/lovable-uploads/f50bd4d6-d488-4d3b-a9d6-bf23ac240c47.png',
+    image: 'pexels-pavel-danilyuk-8438863.jpg',
     color: 'bg-play-softPurple',
   },
 ];
