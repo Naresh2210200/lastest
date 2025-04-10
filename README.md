@@ -1,73 +1,50 @@
-# Welcome to your Lovable project
+Here’s an updated version of your `README.md` with your details added (without any mention of "Lovable"):
 
-## Project info
+---
 
-**URL**: https://lovable.dev/projects/24b43a35-1e68-4f45-878f-370f342b32af
+# Responsive Homepage
 
-## How can I edit this code?
+## 🚀 Project Info
 
-There are several ways of editing your application.
+**Live URL**: [lazyidlis.netlify.app](https://lazyidlis.netlify.app)
 
-**Use Lovable**
+This project is a responsive homepage built with:
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/24b43a35-1e68-4f45-878f-370f342b32af) and start prompting.
+- **Vite**
+- **TypeScript**
+- **React**
+- **Tailwind CSS**
+- **shadcn/ui**
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🛠 Getting Started
 
-**Use your preferred IDE**
+To work locally:
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+```bash
+# 1. Clone the repository
+git clone https://github.com/Naresh2210200/lastest.git
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+# 2. Move into the directory
+cd lastest
 
-Follow these steps:
+# 3. Install dependencies
+npm install
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# 4. Start the development server
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+## 🌐 Deploying
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+This project is deployed using **Netlify**.
 
-**Use GitHub Codespaces**
+**Live Site**: [lazyidlis.netlify.app](https://lazyidlis.netlify.app)
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## 📬 Contact
 
-## What technologies are used for this project?
+- 📧 **Email**: [joshiassociate740@gmail.com](mailto:joshiassociate740@gmail.com)  
+- 💼 **LinkedIn**: [www.linkedin.com/in/naresh-singh-webdev](https://www.linkedin.com/in/naresh-singh-webdev)
 
-This project is built with:
+---
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/24b43a35-1e68-4f45-878f-370f342b32af) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes it is!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Let me know if you'd like to include a project screenshot or tech badges as well!
